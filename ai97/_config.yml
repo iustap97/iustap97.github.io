@@ -1,28 +1,23 @@
 # Site settings
-title: Course Website
-subtitle: Title of the Course
+title: Introduction to Artificial Intelligence
+subtitle: Iran University of Science and Technology
 description: |
-    Introduction to Artificial Intelligence
-    
-    Iran University of Science and Technology
-    
     Instructor: Mohammad Taher Pilehvar
     
-    Please join our Google groups at:
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://course-website.svmiller.com" # the base hostname & protocol for your site
-syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "svmiller/course-website"
+url: "http://iust-courses.github.io/ai97/" # the base hostname & protocol for your site
+#syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
+#githubdir: "svmiller/course-website"
 
 # Author/user information
-email: svmille@clemson.edu
-twitter_username: stevenvmiller
-github_username:  svmiller
-authorurl: "http://svmiller.com"
+email: pilehvar@iust.ac.ir
+#twitter_username: 
+github_username:  pilehvar
+authorurl: "http://pilevar.com/taher/"
 address: |
-    Department of Political Science
-    232 Brackett Hall
-    Clemson, SC 29634-1354
+    School of Computer Engineering
+    Iran University of Science and Technology
+    Tehran, Iran
 
 
 # Build settings
