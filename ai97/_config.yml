@@ -3,7 +3,8 @@ title: Introduction to Artificial Intelligence
 subtitle: Iran University of Science and Technology
 description: |
     Instructor: Mohammad Taher Pilehvar
-    
+
+message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai97">groups page</a> to get course notifications via email.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://iust-courses.github.io/ai97/" # the base hostname & protocol for your site
 #syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
