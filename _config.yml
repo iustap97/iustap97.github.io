@@ -5,10 +5,10 @@ description: |
     Instructor: Mohammad Taher Pilehvar
 
 message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai97">groups page</a> to get course notifications via email.
-baseurl: "ai97" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://iust-courses.github.io/" # the base hostname & protocol for your site
 #syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
-#githubdir: "svmiller/course-website"
+githubdir: "iust-courses/github.iust-courses.io"
 
 # Author/user information
 email: pilehvar@iust.ac.ir
