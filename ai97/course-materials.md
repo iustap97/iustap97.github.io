@@ -4,7 +4,7 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" align="right" width="175"%}
+{% include image.html url="/ai97/_images/cover2.jpg" align="right" width="175"%}
 
 ## Book
 
