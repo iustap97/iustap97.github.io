@@ -4,8 +4,7 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-{% include image.html url="/ai97/_images/cover2.jpg" align="right" width="175"%}
-
+{% include image.html url="/_images/fabulous-sylvester.jpg" caption="The Textbook for the Semester" width=300 align="right" %}
 ## Book
 
 Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach.
