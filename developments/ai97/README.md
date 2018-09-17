@@ -7,7 +7,7 @@ Development strategy
 3. install requirements:
    `gem install jekyll-jalali`
 4. add your content, apply your changes.
-4. build! `jeykyll build -d ../../ai97/`
+4. build! `jekyll build -d ../../ai97/`
 5. push your changes
 
 # How to edit website
