@@ -4,12 +4,12 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/java.jpeg" width=175 align="right" %}
 
 ## Book
 
-Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach.
+Paul Deitel and Harvey Switel: Java: How to Program
 
 ## Additional Course Materials
 
-If you are not familiar with Python programming, use any online tutorial to get a handle of it.
+
