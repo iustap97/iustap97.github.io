@@ -6,7 +6,7 @@
   border-top: 0px solid #424242;
   border-bottom: 4px solid #f66733;
   min-height: 56px;
-  background: #336699;
+  background: #3a7b45;
   position: relative; }
 
 .site-title {
@@ -70,17 +70,17 @@
   color: #522d80; }
 
 .site-nav .sub-menu a:hover {
-  color: #336699; }
+  color: #3a7b45; }
 
 .site-nav .sub-menu {
   background: #ffffff;
-  border-color: #336699;
+  border-color: #3a7b45;
   min-width: 265px;
   z-index: 2147483647; }
 
 .site-nav .sub-menu li.current-menu-item > a {
-  border-left-color: #336699;
-  border-right-color: #336699;
+  border-left-color: #3a7b45;
+  border-right-color: #3a7b45;
   border-right: 0px; }
 
 .sub-menu {
@@ -123,7 +123,7 @@
     display: none; }
   .site-nav .page-link {
     color: #ffffff;
-    background: #336699;
+    background: #3a7b45;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
@@ -730,7 +730,7 @@ ul.listing li.listing-item time {
   padding-right: 10px; }
 
 ul.listing li.listing-item a {
-  color: #336699;
+  color: #3a7b45;
   font-weight: 400;
   font-family: 'Titillium Web', sans-serif; }
 
@@ -756,7 +756,7 @@ ul#archive li.alt {
   color: #333; }
 
 ul#archive li span a {
-  color: #336699;
+  color: #3a7b45;
   font-weight: bold;
   font-family: 'Titillium Web', sans-serif; }
 
@@ -902,7 +902,7 @@ ul#archive li span a:hover {
 .wp-caption {
   background-color: #f3f3f3;
   text-align: center;
-  border: 1px dotted #336699;
+  border: 1px dotted #3a7b45;
   font-size: 0.90em;
   overflow: hidden;
   position: relative; }
