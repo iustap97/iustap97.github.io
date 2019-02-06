@@ -1,11 +1,11 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Advanced Programming (Spring 1397)
-course_description: "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.  you will learn the foundational principles that drive AI applications and practice implementing some of these systems."
+course_description: "This course introduces students with advanced programming with Java. Object-Oriented programming is the main subject of this course."
 description: |
     Instructor: Mohammad Taher Pilehvar
 
-message: Register to our Google <a href="https://groups.google.com/forum/#!forum/ai97">groups page</a> to get course notifications via email.
+message: Register to our <a href="https://quera.ir/course/2781/">Quera Class</a> to get course notifications via email.
 baseurl: "/ap97" # the subpath of your site, e.g. /blog/
 url: "http://miladibra10.github.io/" # the base hostname & protocol for your site
 #syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
