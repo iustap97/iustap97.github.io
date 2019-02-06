@@ -1,0 +1,16 @@
+instructor:
+  name: Mohammad Taher Pilehvar
+  profile_pic: /_images/pp/inst.jpg
+
+teaching_assistants:
+  - name: Milad Ebrahimi
+    profile_pic: /_images/pp/milad-ebrahimi.jpg
+
+  - name: Farbod Shahinfar
+    profile_pic: /_images/pp/farbod-shahinfar.jpg
+  
+  - name: Kiarash Tabrizi
+    profile_pic: /_images/pp/kiarash-tabrizi.jpg
+  
+  - name: Amirsaeed Ranjbar
+    profile_pic: /_images/pp/amirsaeed-ranjbar.jpg
