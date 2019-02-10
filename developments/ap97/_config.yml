@@ -7,9 +7,9 @@ description: |
 
 message: Register to our <a href="https://quera.ir/course/2781/">Quera Class</a> to get course notifications and assignments via email.
 baseurl: "/ap97" # the subpath of your site, e.g. /blog/
-url: "http://miladibra10.github.io/" # the base hostname & protocol for your site
+url: "http://iustap97.github.io/" # the base hostname & protocol for your site
 #syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "miladibra10/github.miladibra10.io"
+githubdir: "iustap97/github.iustap97.io"
 
 # Author/user information
 email: pilehvar@iust.ac.ir
