@@ -2,12 +2,12 @@ Development strategy
 =======================================================
 
 # How to build & contribute
-1. clone repository `git clone https://github.com/iust-courses/iust-courses.github.io.git`
-2. `cd iust-courses.github.io/developments/ai97`
+1. clone repository `git clone https://github.com/iustap97/iustap97.github.io.git`
+2. `cd iustap97.github.io/developments/ap97`
 3. install requirements:
    `gem install jekyll-jalali`
 4. add your content, apply your changes.
-4. build! `jekyll build -d ../../ai97/`
+4. build! `jekyll build -d ../../ap97/`
 5. push your changes
 
 # How to edit website
